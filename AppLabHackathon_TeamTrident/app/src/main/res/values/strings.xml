@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Trident</string>
+
+    <string-array name="branch">
+        <item>Computer Science</item>
+        <item>Computer and Communication</item>
+        <item>Artificial Intelligence</item>
+        <item>Mechanical</item>
+        <item>Electronics and Electricals</item>
+        <item>Electrical Communication</item>
+        <item>Data Science</item>
+    </string-array>
+
+    <string-array name="dept">
+        <item>Computer Science Engineering</item>
+        <item>Information Technology</item>
+        <item>Electrical Engineering</item>
+        <item>Humanities Department</item>
+        <item>Mathematics Department</item>
+        <item>Mechanical Engineering</item>
+    </string-array>
+
+    <string-array name="category">
+        <item>student</item>
+        <item>professor</item>
+        <item>organization</item>
+    </string-array>
+
+    <string-array name="sortby">
+        <item>default</item>
+        <item>recent</item>
+        <item>student</item>
+        <item>professor</item>
+        <item>organization</item>
+    </string-array>
+</resources>

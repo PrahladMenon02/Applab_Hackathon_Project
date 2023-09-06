@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1012648460142",
+    "firebase_url": "https://hackapplab-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "hackapplab",
+    "storage_bucket": "hackapplab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012648460142:android:717d1a4e41a19f57f1cb7f",
+        "android_client_info": {
+          "package_name": "com.example.hackapplab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1012648460142-7oqdg2r0a4e93n2ug8jefg1th93cf1na.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdo67oC9uTOrzKdkf9tKgseXk0-iJ0vC8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1012648460142-7oqdg2r0a4e93n2ug8jefg1th93cf1na.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
